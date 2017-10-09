@@ -30,7 +30,7 @@ Yum Yum Log is password protected, with authenticated API routes.
 
    ![](https://media.giphy.com/media/l378sWAHEk4QxUKHe/giphy.gif)
 
-   Yum Yum Log stores daily food log entries to MySql; the data is persistent, which allows the app to show users their personal progress over time; a community dashboard pages shows progress for all users by category (fruits or vegetables).
+   Yum Yum Log stores daily food log entries to MySql; the data is persistent, which allows the app to show users their personal progress over time; a community dashboard page shows progress for all users by category (fruits or vegetables).
 
    Using tools such as the Moment.js library, the app logs entries for the current calendar week and displays historical food log data
 
