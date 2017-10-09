@@ -8,7 +8,7 @@ The application stores nutrition data to a SQL database, and manipulates the dat
 
 Yum Yum Log is password protected, with authenticated API routes. 
 
-# [Demo the App](aqueous-spire-55286.herokuapp.com)
+# [Demo the App](https://aqueous-spire-55286.herokuapp.com/)
 
 # [Slide Deck](https://docs.google.com/presentation/d/1QHL7gwAipinHJwtbs4vVJXGIWGpV9vaU8A4UyCxtbvA/edit?usp=sharing)
 
