@@ -23,7 +23,6 @@ Yum Yum Log is password protected, with authenticated API routes.
 * ## API routing
 
    ![](https://media.giphy.com/media/3o7aD06rFRAek5ZZQc/giphy.gif)
-selected data by filtered date
 
    Server-side authenticated API routes request and deliver data objects for manipulation on the client-side application interface. Based on the category selected, the user receives a datalist of food from the MySql database. 
 
@@ -40,4 +39,4 @@ selected data by filtered date
 
    Handlebars.js allows the application to dynamically display data to the webpage, creating a friendlier presentation for the user. 
 
-**Technologies:** Node.js, Express.js, Sequelize, Passport.js, bcrypt, handlebars.js, Heroku, W3CSS
+**Technologies:** *Node.js, Express.js, Sequelize, Passport.js, bcrypt, handlebars.js, Heroku, W3CSS*
